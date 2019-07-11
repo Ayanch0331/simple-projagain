@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is awesome simple text
+=======
+this is simple text
+>>>>>>> parent of 04fa5b9... text file changed
