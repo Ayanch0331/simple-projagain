@@ -7,7 +7,7 @@ import com.simpleProject.entity.AuthorEntity;
 public interface IAuthorService {
 
 	List<AuthorEntity> findAllAuthors();
-	//for new branch
+	//for dev branch
 	AuthorEntity createAuthor(AuthorEntity ae);
 	
 }
