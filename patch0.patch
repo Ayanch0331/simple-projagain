@@ -1,0 +1,9 @@
+diff --git a/src/main/test.txt b/src/main/test.txt
+new file mode 100644
+index 0000000..2989fde
+--- /dev/null
++++ b/src/main/test.txt
+@@ -0,0 +1 @@
++this is test file
+\ No newline at end of file
+* Unmerged path src/main/text.txt

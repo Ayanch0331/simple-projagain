@@ -1,0 +1,16 @@
+diff --git a/src/main/test.txt b/src/main/test.txt
+new file mode 100644
+index 0000000..2989fde
+--- /dev/null
++++ b/src/main/test.txt
+@@ -0,0 +1 @@
++this is test file
+\ No newline at end of file
+diff --git a/src/main/text.txt b/src/main/text.txt
+index 5c21473..6772f4a 100644
+--- a/src/main/text.txt
++++ b/src/main/text.txt
+@@ -1 +1,2 @@
+-this is awesome simple text
++this is simple text
++
